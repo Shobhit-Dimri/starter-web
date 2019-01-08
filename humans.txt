@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shobhit Dimri --- Devops Manager --- <name> -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    Shobhit Dimri
 
 # TECHNOLOGY COLOPHON
 
