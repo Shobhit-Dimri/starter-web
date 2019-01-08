@@ -13,4 +13,4 @@ Doing some changes in local
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr, DevOps, Product Engineer, Product Release Manager, devops engineer lvl 3
+    jQuery, Modernizr, DevOps, Product Engineer, Product Release Manager, devops engineer lvl 3, AWS Architect
