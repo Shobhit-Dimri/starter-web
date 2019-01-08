@@ -12,4 +12,4 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr, DevOps, Product Engineer, Product Release Manager
+    jQuery, Modernizr, DevOps, Product Engineer, Product Release Manager, devops engineer lvl 3
