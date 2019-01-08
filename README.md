@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 Let's see whats happening
+Adding new classes of stash
 
 ## Purpose
 
