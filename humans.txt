@@ -8,7 +8,7 @@ Doing some changes in local
 
 # THANKS
 
-    Shobhit Dimri
+    Shobhit Dimri Bond
 
 # TECHNOLOGY COLOPHON
 
