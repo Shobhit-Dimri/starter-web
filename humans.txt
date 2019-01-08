@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Shobhit Dimri --- Devops Manager --- <name> -- <role> -- <twitter>
+    Shobhit Dimri --- Devops --- <name> --- Manager --- <role> -- <twitter>
 
 # THANKS
 
